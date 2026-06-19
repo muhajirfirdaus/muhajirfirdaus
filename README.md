@@ -16,7 +16,7 @@
 <a href="https://instagram.com/muhajirfirdaus__">
   <img src="https://img.shields.io/badge/Instagram-muhajirfirdaus__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/muhajirpirdaospauji">
+<a href="https://linkedin.com/in/muhajir-pirdaos-pauji-89958337b">
   <img src="https://img.shields.io/badge/LinkedIn-Muhajir%20Pirdaos%20Pauji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://tiktok.com/@muhajirfirdausfauzi">
