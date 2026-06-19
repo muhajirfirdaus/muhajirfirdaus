@@ -2,112 +2,159 @@
 
 # 👋 Hello World!, I'm Muhajir Firdaus Fauzi
 
-### Aspiring Network Engineer • ISP Operations • Linux Server • Web Development
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Aspiring+Network+Engineer;ISP+Operations;Linux+Server+Administrator;Web+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-muhajirfirdaus-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/muhajirfirdaus)
-[![Instagram](https://img.shields.io/badge/Instagram-muhajirfirdaus__-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/muhajirfirdaus__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhajir%20Pirdaos%20Pauji-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/muhajirpirdaospauji)
-[![TikTok](https://img.shields.io/badge/TikTok-muhajirfirdausfauzi-000000?style=flat\&logo=tiktok\&logoColor=white)](https://tiktok.com/@muhajirfirdausfauzi)
-[![Email](https://img.shields.io/badge/Email-muhajirfirdausfauzi%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:muhajirfirdausfauzi@gmail.com)
+<p align="center">
+  <a href="https://github.com/muhajirfirdaus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/muhajirpirdaospauji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/muhajirfirdaus__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@muhajirfirdausfauzi"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="mailto:muhajirfirdausfauzi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=muhajirfirdaus&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
 ## 🌟 About Me
 
-* 🎓 Student majoring in **Computer & Network Engineering**
-* 🌐 Passionate about **Network Engineering, ISP Operations, and IT Infrastructure**
-* 🔧 Learning **MikroTik, Cisco, Linux Server, Routing, Switching, VPN, VLAN, PPPoE, and Firewall**
-* 💻 Also interested in **Web Development** using **PHP, MySQL, HTML, CSS, and JavaScript**
-* 🚀 My goal is to become a professional **Network Engineer** and grow in **Network & System Administration**
-* 🇮🇩 Based in **Indonesia**
+- 🎓 Student majoring in **Computer & Network Engineering** based in **Indonesia** 🇮🇩
+- 🌐 Passionate about **Network Engineering, ISP Operations, and IT Infrastructure**
+- 🔧 Constantly exploring **MikroTik, Cisco, Linux Server, Routing, Switching, VPN, VLAN, PPPoE, and Firewall**
+- 💻 Also interested in **Web Development** using **PHP, MySQL, HTML, CSS, and JavaScript**
+- 🚀 My goal is to become a professional **Network Engineer** and grow in **Network & System Administration**
 
----
+<br/>
 
-## 🧰 Tools I've Used
+## 🧰 Tools & Technologies
 
-| Category                | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Networking**          | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat\&logo=mikrotik\&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat\&logo=cisco\&logoColor=white) ![Ruijie](https://img.shields.io/badge/Ruijie-Networking-red?style=flat) ![Winbox](https://img.shields.io/badge/Winbox-MikroTik-blue?style=flat)                                                                                                                                    |
-| **Routing & Switching** | ![BGP](https://img.shields.io/badge/BGP-111827?style=flat) ![OSPF](https://img.shields.io/badge/OSPF-374151?style=flat) ![VLAN](https://img.shields.io/badge/VLAN-FF6F00?style=flat) ![VPN](https://img.shields.io/badge/VPN-6A1B9A?style=flat) ![L2TP](https://img.shields.io/badge/L2TP-1565C0?style=flat)                                                                                                                                                                         |
-| **ISP Operations**      | ![PPPoE](https://img.shields.io/badge/PPPoE-2E7D32?style=flat) ![Firewall](https://img.shields.io/badge/Firewall-C62828?style=flat) ![Hotspot](https://img.shields.io/badge/Hotspot-F9A825?style=flat) ![Bandwidth Management](https://img.shields.io/badge/Bandwidth_Management-1565C0?style=flat) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0F766E?style=flat)                                                                                               |
-| **Server / SysAdmin**   | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat\&logo=ubuntu\&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat\&logo=debian\&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat\&logo=apache\&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat\&logo=nginx\&logoColor=white) |
-| **Web Development**     | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)                                                                                                |
-| **Database**            | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat\&logo=mariadb\&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F89820?style=flat\&logo=phpmyadmin\&logoColor=white)                                                                                                                                                                             |
-| **Hosting & Panel**     | ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat\&logo=cpanel\&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white) ![VPS](https://img.shields.io/badge/VPS-111827?style=flat)                                                                                                                                                                                                                 |
-| **Code Editor & Tools** | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat\&logo=xampp\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)                                                                               |
-| **Design & Content**    | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat\&logo=canva\&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat)                                                                                                                                                                                                                                                                                                                         |
+<div align="center">
 
----
+### 📡 Networking, Routing & ISP
+<p align="center">
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Ruijie_Networking-E50012?style=for-the-badge" alt="Ruijie" />
+  <img src="https://img.shields.io/badge/Winbox_MikroTik-00AEEF?style=for-the-badge" alt="Winbox" />
+  <img src="https://img.shields.io/badge/BGP-111827?style=for-the-badge" alt="BGP" />
+  <img src="https://img.shields.io/badge/OSPF-374151?style=for-the-badge" alt="OSPF" />
+  <img src="https://img.shields.io/badge/VLAN-FF6F00?style=for-the-badge" alt="VLAN" />
+  <img src="https://img.shields.io/badge/VPN-6A1B9A?style=for-the-badge" alt="VPN" />
+  <img src="https://img.shields.io/badge/L2TP-1565C0?style=for-the-badge" alt="L2TP" />
+  <img src="https://img.shields.io/badge/PPPoE-2E7D32?style=for-the-badge" alt="PPPoE" />
+  <img src="https://img.shields.io/badge/Firewall-C62828?style=for-the-badge" alt="Firewall" />
+  <img src="https://img.shields.io/badge/Hotspot-F9A825?style=for-the-badge" alt="Hotspot" />
+  <img src="https://img.shields.io/badge/Bandwidth_Management-1565C0?style=for-the-badge" alt="Bandwidth" />
+  <img src="https://img.shields.io/badge/Troubleshooting-0F766E?style=for-the-badge" alt="Troubleshooting" />
+</p>
+
+### 🖥️ Server, SysAdmin & Hosting
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/VPS-111827?style=for-the-badge" alt="VPS" />
+</p>
+
+### 💻 Web Development & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-F89820?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+</p>
+
+### 🛠️ Code Editors, Git & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+</p>
+
+</div>
+
+<br/>
+
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+
+<div>
 
 ## 📚 Currently Learning
+- Advanced **MikroTik RouterOS**
+- **Cisco Routing & Switching**
+- **BGP, OSPF, VLAN, VPN, PPPoE**
+- **Linux Server Administration**
+- ISP Network Troubleshooting
+- Network Monitoring
+- Web-based ISP Management Systems
+- English for international career growth
 
-* Advanced **MikroTik RouterOS**
-* **Cisco Routing & Switching**
-* **BGP, OSPF, VLAN, VPN, PPPoE**
-* **Linux Server Administration**
-* ISP Network Troubleshooting
-* Network Monitoring
-* Web-based ISP Management Systems
-* English for international career growth
-
----
+</div>
+<div>
 
 ## 🚀 Projects & Interests
+- 🌐 ISP Website Development
+- 📦 ISP Inventory Management System
+- 💰 Simple Finance & Cashier Website
+- 📡 MikroTik VPN Remote Access
+- 🔥 Firewall and Bandwidth Management
+- 📊 Customer Broadcast & Reporting System
+- 🖥️ Linux Web Server Deployment
 
-* 🌐 ISP Website Development
-* 📦 ISP Inventory Management System
-* 💰 Simple Finance & Cashier Website
-* 📡 MikroTik VPN Remote Access
-* 🔥 Firewall and Bandwidth Management
-* 📊 Customer Broadcast & Reporting System
-* 🖥️ Linux Web Server Deployment
+</div>
+</div>
 
----
+<br/>
 
 ## 🎯 Career Goals
 
-I want to become a professional **Network Engineer** with strong skills in:
+> *"Keep learning, keep building, and never stop improving."*
 
-* Network Infrastructure
-* Routing & Switching
-* MikroTik and Cisco
-* ISP Operations
-* Linux Server
-* Network Security
-* System Administration
+I am working towards becoming a professional **Network Engineer** with deep expertise in **Network Infrastructure, Routing & Switching, MikroTik & Cisco, ISP Operations, Linux Server, Network Security, and System Administration.**
 
-> “Keep learning, keep building, and never stop improving.”
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Muhajir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhajirfirdaus\&show_icons=true\&theme=github_dark\&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=muhajirfirdaus\&theme=github-dark-blue\&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhajirfirdaus\&layout=compact\&theme=github_dark\&hide_border=false)
+  
+  <a href="https://github.com/muhajirfirdaus">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhajirfirdaus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Muhajir's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/muhajirfirdaus">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhajirfirdaus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/muhajirfirdaus">
+    <img src="https://streak-stats.demolab.com?user=muhajirfirdaus&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+  </a>
 
 </div>
 
----
-
-## ✍️ Random Dev Quote
+<br/>
 
 <div align="center">
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=muhajirfirdaus\&style=flat\&color=blue)
-
-</div>
+<br/>
+<p align="center">
+  <i>Visitor count tracked since configuration. Thank you for dropping by!</i>
+</p>
